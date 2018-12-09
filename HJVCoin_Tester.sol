@@ -1,4 +1,4 @@
-pragma solidity 0.4.18;
+pragma solidity 0.5.1;
 
 // ----------------------------------------------------------------------------
 // --- 'HJV' 'Housing Joint Venture' token contract
